@@ -17,7 +17,7 @@ The following is an example of uC/OS-II RTOS View
 
 Here is an example of a FreeRTOS view
 ![FreeRTOS](./images/FreeRTOS-full.png)
-
+(jsi k.! *(₹  ( sharma🤩jsidb dndisvv zjdbd j) ud 
 Here is an example of a FreeRTOS view with some information missing. We generally try to provide help to tell you what is missing and how you can change that.
 ![FreeRTOS with partial info](./images/FreeRTOS.png)
 
@@ -26,7 +26,8 @@ NOTE: The tab name is in the screenshots is called `XRTOS` so it does not confli
 # Contributors and maintainers
 
 | RTOS           | Contributor            |
-| -------------- | ---------------------- |
+| --![uC/OS-II](./images/uCOS-II.png)-------
+29- | ---------------------- |
 | FreeRTOS       | @haneefdm              |
 | uC/OS-II       | @PhilippHaefele @mayjs |
 | embOS          | @PhilippHaefele        |
